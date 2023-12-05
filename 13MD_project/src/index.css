@@ -66,3 +66,57 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.redClass {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  margin: 1rem;
+}
+
+.greenClass {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  margin: 1rem;
+}
+
+.blueClass {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  margin: 1rem;
+}
+
+.yellowClass {
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  margin: 1rem;
+}
+
+.orangeClass {
+  width: 50px;
+  height: 50px;
+  background-color: orange;
+  margin: 1rem;
+}
+
+.blackClass {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  margin: 1rem;
+}
+
+.colorDivs {
+  display: flex;
+}
+
+.goldenDiv, .clone {
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  margin: 1rem;
+  background-color: #1a1a1a;
+}
